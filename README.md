@@ -6,6 +6,10 @@ Runs a simulation of a hexapod walking up an incline.
 ### To setup, run the following in a new terminal (in ~/catkin_ws):
 catkin_make
 
+
+### Make sure to install ros-control before continuing to the next step
+
+
 ### To open the simulation, run the following in the first terminal:
 
 source ~/catkin_ws/devel/setup.bash
